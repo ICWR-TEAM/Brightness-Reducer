@@ -9,3 +9,7 @@ Run
 ```bash
 python3 x.py --alpha 0.5
 ```
+How to close ? In the terminal where script running
+```
+CTRL + C
+```
